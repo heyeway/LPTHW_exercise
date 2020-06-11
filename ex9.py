@@ -7,5 +7,5 @@ This is multiline comments.
 The timestamp follows: 
 """)
 
-#I'm almost fogot f prefix...
+#I almost forgets 'f' prefix...
 print(f"Today is {year}/{month}/{day}.")
