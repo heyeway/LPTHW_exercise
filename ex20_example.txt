@@ -1,0 +1,3 @@
+Hi, file
+Write, file
+Goodby, file
